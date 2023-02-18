@@ -7,6 +7,7 @@ Algorithm:
 - if ship sunk -> cells around the ship -> 0 probability (cannot place ships adjacent to each other)
 
 Humans takes > 78 shots 99% of the time in order to win (https://datagenetics.com/blog/december32011/index.html).
+
 This algorithm takes < 45 shots to win (over 6700 runs).
 
 Here is a visual demonstration of the algorithm:
